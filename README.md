@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hey there, I'm Hoyt Porter
+####   Currently working on ShareIY
+ I'm currently learning TypeScript
+#### If you're interested in collaborating, reach out! 
+ I'd love to hear from you
 
 <!--
 **Hoytmelcher/Hoytmelcher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
